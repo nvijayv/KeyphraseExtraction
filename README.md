@@ -16,4 +16,4 @@ python SgRank.py
 python SemRank.py
 ```
 ## Algorithm description
-Extract noun chunks using Spacy. Apply pagerank on graph with noun chunks as nodes and edge weights can either be calculated using syntax heuristics or semantic similarity or both.
+Extract noun chunks using Spacy. Apply pagerank on graph with noun chunks as nodes and edge weights can either be calculated using [syntax heuristics](http://www.aclweb.org/anthology/S15-1013) or semantic similarity or both.
